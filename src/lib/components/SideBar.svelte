@@ -28,7 +28,7 @@
 
 <style lang="scss">
   .sidebar {
-    @apply w-[5.5rem] h-screen bg-[#2c2f33] flex flex-col items-center gap-3 pt-5;
+    @apply w-[5.5rem] min-w-[5.5rem] h-screen bg-[#2c2f33] flex flex-col items-center gap-3 pt-5;
 
     .sidebar-item{
         .active-custom {

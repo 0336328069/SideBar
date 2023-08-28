@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npx gh-pages -d dist true"
+    "deploy": "yarn build && npx gh-pages -d dist true"
   },
   "devDependencies": {
     "@sveltejs/adapter-netlify": "^2.0.8",

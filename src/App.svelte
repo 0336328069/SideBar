@@ -11,7 +11,7 @@
 <main>
   <div class="w-full h-full flex">
     <SideBar sideBarList={sideBarList} />
-    <div class="bg-[#313338] w-[93%]">
+    <div class="bg-[#313338] w-full">
       <!-- // Body -->
     </div>
   </div>
