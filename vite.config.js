@@ -7,5 +7,5 @@ export default defineConfig({
   server: {
     port: "3000"
   },
-  base: "https://0336328069.github.io/SideBar"
+  base: "/SideBar/"
 })
