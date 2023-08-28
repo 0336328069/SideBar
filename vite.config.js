@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [svelte()],
   server: {
     port: "3000"
-  }
+  },
+  base: "https://0336328069.github.io/SideBar"
 })
