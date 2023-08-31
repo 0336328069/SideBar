@@ -1,10 +1,10 @@
 <script>
   import SideBar from "./lib/components/SideBar.svelte";
   const sideBarList = [
-    'icon-filled-logo-color-instagram',
-    'icon-filled-logo-color-linkedin',
-    'icon-filled-logo-color-tiktok',
-    'icon-filled-logo-color-telegram'
+    'icon-outline-nav-tasklist',
+    'icon-outline-paragraph-alignjustify',
+    'icon-outline-nav-ordered-list-tap',
+    'icon-outline-nav-list-general'
   ]
 </script>
 
